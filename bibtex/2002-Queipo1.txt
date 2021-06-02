@@ -1,0 +1,16 @@
+@article{Queipo2002167,
+title = "Surrogate modeling-based optimization for the integration of static and dynamic data into a reservoir description",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "35",
+number = "3-4",
+pages = "167 - 181",
+year = "2002",
+note = "",
+issn = "0920-4105",
+doi = "DOI: 10.1016/S0920-4105(02)00238-3",
+url = "http://www.sciencedirect.com/science/article/B6VDW-45RFN0R-1/2/505254d44a907c7af99969c49de175eb",
+author = "Nestor V. Queipo and Salvador Pintos and Néstor Rincón and Nemrod Contreras and Juan Colmenares",
+keywords = "Reservoir characterization",
+keywords = "Surrogate modeling-based optimization"
+}
+

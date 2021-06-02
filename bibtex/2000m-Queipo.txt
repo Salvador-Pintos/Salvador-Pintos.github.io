@@ -1,0 +1,11 @@
+@inproceedings{Queipo2000m,
+  author = "Queipo, N., Pintos, S., Rincón, N., Contreras, N. y Colmenares, J.",
+  title = "Surrogate modeling-based optimization for the integration of static and dynamic 
+  data into a reservoir description",
+  booktitle = "SPE Annual Technical Conference and Exhibition",
+  year = "2000",
+  organization = "SPE",
+  address = "Dallas, Texas",
+  month = "October",
+  note = "SPE 63065"
+}

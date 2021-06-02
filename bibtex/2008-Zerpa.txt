@@ -1,0 +1,15 @@
+@article{Zerpa2008,
+author = "Luis Zerpa and Nestor V. Queipo and Salvador Pintos and E. Tillero and E. Alter",
+title = "Un enfoque práctico para la optimización de procesos de inyección de ASP usando modelos de superficie de respuesta cuadrática y diseño de experimentos",
+journal = "Revista Técnica de la Facultad de Ingeniería - Universidad del Zulia",
+year = "2008",
+volume = "31",
+pages = "50 - 60",
+isnn = "0254-0770",
+keywords = "Recuperación mejorada de petróleo",
+keywords = "inyección de álcali-surfactante-polímero",
+keywords = "optimización",
+keywords = "modelos sustitutos",
+keywords = "simulación de yacimientos"
+}
+

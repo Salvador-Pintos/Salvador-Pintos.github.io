@@ -1,0 +1,20 @@
+@article{Zerpa2005197,
+title = "An optimization methodology of alkaline-surfactant-polymer flooding processes using field scale numerical simulation and multiple surrogates",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "47",
+number = "3-4",
+pages = "197 - 208",
+year = "2005",
+note = "",
+issn = "0920-4105",
+doi = "DOI: 10.1016/j.petrol.2005.03.002",
+url = "http://www.sciencedirect.com/science/article/B6VDW-4FY9MBX-1/2/39e2d8ecccedcf114e00f903f3a7ce87",
+author = "Luis E. Zerpa and Nestor V. Queipo and Salvador Pintos and Jean-Louis Salager",
+keywords = "Enhanced oil recovery",
+keywords = "Chemical flooding",
+keywords = "ASP flooding",
+keywords = "Global optimization",
+keywords = "Surrogate modeling",
+keywords = "Surrogate-based optimization"
+}
+

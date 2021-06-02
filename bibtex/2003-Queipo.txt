@@ -1,0 +1,16 @@
+@article{Queipo2003,
+author = "Nestor V. Queipo and Luis E. Zerpa and Javier V. Goicochea and Alexander J. Verde and Salvador Pintos and Alexander Zambrano",
+title = "A model for the integrated optimization of oil production systems",
+journal = "Engineering with Computers",
+volume = "19",
+number = "2",
+pages = "130 - 141",
+year = "2003",
+isn = "0177-0667"
+keywords = "DOE",
+keywords = "Integrated surface and reservoir modeling and optimization", 
+keywords = "Oil production systems",
+url = "http://www.springerlink.com/content/M102HV4BQ8R9U7NF",
+doi = "DOI: 10.1007/s00366-003-0255-1"
+}
+

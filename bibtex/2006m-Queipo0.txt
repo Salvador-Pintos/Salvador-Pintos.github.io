@@ -1,0 +1,9 @@
+@inproceedings{Queipo2006m,
+  author = "Nestor V. Queipo and Alexander Verde and Salvador Pintos and Raphael T. Haftka",
+  title = "Assessing the value of another cycle in surrogate-based optimization",
+  booktitle = "11th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference",
+  year = "2006",
+  address = "Portsmouth, Virginia",
+  month = "September",
+  note = "Paper AIAA 2006-7089"
+}

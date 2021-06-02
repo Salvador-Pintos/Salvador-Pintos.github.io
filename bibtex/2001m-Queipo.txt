@@ -1,0 +1,10 @@
+@inproceedings{Queipo2001m,
+  author = "Queipo, N. Goicochea, J., Pintos, S.",
+  title = "Surrogate modeling-based optimization of SAGD processes",
+  booktitle = "SPE International Heavy Oil Symposium",
+  year = "2001",
+  organization = "SPE",
+  address = "Margarita Island, Venezuela, 
+  month = "March",
+  note = SPE 69704
+}

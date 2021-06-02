@@ -1,0 +1,17 @@
+@article{Pintos200035,
+title = "Artificial neural network modeling of atmospheric corrosion in the MICAT project",
+journal = "Corrosion Science",
+volume = "42",
+number = "1",
+pages = "35 - 52",
+year = "2000",
+note = "",
+issn = "0010-938X",
+doi = "DOI: 10.1016/S0010-938X(99)00054-2",
+url = "http://www.sciencedirect.com/science/article/B6TWS-3Y162T2-3/2/f214c908c33bcf0dd1f8c24923e91286",
+author = "Salvador Pintos and Nestor V. Queipo and Oladis Troconis de Rincón and Alvaro Rincón and Manuel Morcillo",
+keywords = "A. Steel",
+keywords = "B. Modeling studies",
+keywords = "C. Atmospheric corrosion"
+}
+

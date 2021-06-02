@@ -1,0 +1,17 @@
+@article{Queipo12005,
+author = "Nestor V. Queipo and Carlos Arévalo and Salvador Pintos",
+title = "The integration of design of experiments, surrogate modeling, and optimization for thermoscience research",
+journal = "Engineering with Computers",
+volume = "20",
+number = "4",
+pages = "309 - 315",
+year = "2005",
+isnn = "0177-0667",
+keywords = "DOE",
+keywords = "Surrogate modeling", 
+keywords = "Optimization",
+keywords = "Soft computing",
+url = "http://www.springerlink.com/content/xkmb77gtk9k2487k/",
+doi = "DOI: 10.1007/s00366-004-0299-x"
+}
+

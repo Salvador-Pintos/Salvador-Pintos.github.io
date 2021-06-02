@@ -1,0 +1,9 @@
+@inproceedings{Pintos2008m,
+  author = "Salvador Pintos and Claritza Bohorquez and Nestor V. Queipo",
+  title = "Asymptotic Dykstra-Parsons estimates and confidence intervals",
+  booktitle = "11th European Conference on the Mathematics of Oil Recovery",
+  year = "2008",
+  address = "Bergen, Norway, Noruega",
+  month = "September",
+  note = "http://www.earthdoc.org/detail.php?pubid=15201"
+}

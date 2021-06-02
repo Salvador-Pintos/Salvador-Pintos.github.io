@@ -1,0 +1,18 @@
+@article{Carrero2007,
+title = "Global sensitivity analysis of Alkali-Surfactant-Polymer enhanced oil recovery processes",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "58",
+number = "1-2",
+pages = "30 - 42",
+year = "2007",
+note = "",
+issn = "0920-4105",
+doi = "DOI: 10.1016/j.petrol.2006.11.007",
+url = "http://www.sciencedirect.com/science/article/B6VDW-4MV19X2-1/2/d906d0692e800d36b646a10224c56873",
+author = "Enrique Carrero and Nestor V. Queipo and Salvador Pintos and Luis E. Zerpa",
+keywords = "ASP flooding",
+keywords = "Global sensitivity analysis",
+keywords = "Surrogate-based modeling",
+keywords = "Ensemble of surrogates"
+}
+

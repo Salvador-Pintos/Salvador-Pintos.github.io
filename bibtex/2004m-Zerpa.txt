@@ -1,0 +1,11 @@
+@inproceedings{Zerpa2004m,
+  author = "Zerpa, L., Queipo, N., Pintos, S. y Salager, J.",
+  title = "An optimization methodology of alkaline-surfactant-polymer flooding processes using field 
+  scale numerical simulation and multiple surrogates",
+  booktitle = "SPE/DOE Fourteenth Symposium on Improved Oil Recovery",
+  year = "2004",
+  organization = "SPE",
+  address = "Tulsa, Oklahoma",
+  month = "Abril",
+  note = SPE 89387
+}

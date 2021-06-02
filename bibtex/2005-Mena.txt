@@ -1,0 +1,13 @@
+@article{Mena2005,
+title = "A reliable index for the prognostic significance of blood pressure variability",
+author = "Luis Mena and Salvador Pintos and Nestor V. Queipo and José A. Aizpúrua and Gladys Maestre and Tulio Sulbarán"
+journal = "Journal of Hypertension",
+volume = "23",
+number = "3",
+pages = "505 - 511",
+year = "2005",
+note = "",
+issn = "0263-6352",
+url = "http://journals.lww.com/jhypertension/Abstract/2005/03000/A_reliable_index_for_the_prognostic_significance.8.aspx",
+keywords = "blood pressure variability, variability index, prognostic significance"
+}

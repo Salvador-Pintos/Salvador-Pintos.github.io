@@ -1,0 +1,19 @@
+@article{Nava201056,
+title = "A geostatistical perspective for the surrogate-based integration of variable fidelity models",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "71",
+number = "1-2",
+pages = "56 - 66",
+year = "2010",
+note = "",
+issn = "0920-4105",
+doi = "DOI: 10.1016/j.petrol.2010.01.005",
+url = "http://www.sciencedirect.com/science/article/B6VDW-4Y6S7MS-2/2/bad7e517b18ad8f1779fcac54685699c",
+author = "Efrain Nava and Salvador Pintos and Nestor V. Queipo",
+keywords = "surrogate modeling",
+keywords = "variable fidelity models integration",
+keywords = "geostatistics",
+keywords = "cokriging",
+keywords = "EOR"
+}
+

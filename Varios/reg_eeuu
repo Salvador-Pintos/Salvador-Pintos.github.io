@@ -1,0 +1,22 @@
+   data uspobla;
+      input pobla @@;
+      retain year 1780;
+      year=year+10;
+      yearcuad=year*year;
+      pobla=pobla/1000;
+      cards;
+   3929 5308 7239 9638 12866 17069 23191 31443 39818 50155
+   62947 75994 91972 105710 122775 131669 151325 179323 203211
+   ;
+   proc gplot;
+   symbol1 i=none v=plus;
+   plot pobla*year=1;
+   ;
+   proc reg data=uspobla outest=est;
+   m1:  model pobla=year;
+   m2:  model pobla=year yearcuad;
+   proc print data=est;
+   proc reg data=uspobla;
+      id year;
+      model pobla=year yearcuad / p r cli clm;
+   run;

@@ -1,0 +1,9 @@
+@inproceedings{Sanchez2006m,
+  author = "Egar Sanchez and Salvador Pintos and Nestor V. Queipo",
+  title = "Toward and optimal ensemble of kernel-based approximations with engineering applications",
+  booktitle = "IEEE World Congress on Computacional Intelligence",
+  year = "2006",
+  address = "Vancouver, BC, Canada",
+  month = "July",
+  doi = "DOI: 10.1109/IJCNN.2006.246987"
+}

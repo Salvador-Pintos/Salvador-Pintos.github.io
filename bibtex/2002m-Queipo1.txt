@@ -1,0 +1,10 @@
+@inproceedings{Queipo2002m,
+  author = "Queipo, N., Verde, A., Canelón, J. y Pintos, S. ",
+  title = "Efficient global optimization of hydraulic fracturing designs",
+  booktitle = "SPE International Petroleum Conference and Exhibition",
+  year = "2002",
+  organization = "SPE",
+  address = "Villahermosa, México",
+  month = "Febrero",
+  note = SPE 74356
+}

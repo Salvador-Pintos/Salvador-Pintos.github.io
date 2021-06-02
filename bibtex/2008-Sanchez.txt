@@ -1,0 +1,16 @@
+@article{Sanchez2008,
+author = "Egar Sanchez and Salvador Pintos and Nestor V. Queipo",
+title = "Toward an optimal ensemble of kernel-based approximations with engineering applications",
+year = "2008",
+journal = "Structural and Multidisciplinary Optimization",
+volume = "36",
+number = "3",
+pages = "247 - 261",
+isnn = "1615-147X"
+keywords = "Kernel-based approximation",
+keywords = "Surrogate-based modeling", 
+keywords = "Optimal ensemble",
+url = "http://www.springerlink.com/content/T3745T74155T0457",
+doi = "10.1007/s00158-007-0159-6"
+}
+

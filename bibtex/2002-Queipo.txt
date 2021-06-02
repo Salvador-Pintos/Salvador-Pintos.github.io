@@ -1,0 +1,17 @@
+@article{Queipo2002151,
+title = "Efficient global optimization for hydraulic fracturing treatment design",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "35",
+number = "3-4",
+pages = "151 - 166",
+year = "2002",
+note = "",
+issn = "0920-4105",
+doi = "DOI: 10.1016/S0920-4105(02)00237-1",
+url = "http://www.sciencedirect.com/science/article/B6VDW-45S49D0-1/2/f2a0ea0042c078cdbdff155dd6eead4b",
+author = "Néstor V. Queipo and Alexander J. Verde and José Canelón and Salvador Pintos",
+keywords = "Bayesian global optimization",
+keywords = "Hydraulic fracture design",
+keywords = "Surrogate modeling-based optimization"
+}
+

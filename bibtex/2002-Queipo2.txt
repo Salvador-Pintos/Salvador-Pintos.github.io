@@ -1,0 +1,19 @@
+@article{Queipo200283,
+title = "Surrogate modeling-based optimization of SAGD processes",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "35",
+number = "1-2",
+pages = "83 - 93",
+year = "2002",
+note = "",
+issn = "0920-4105",
+doi = "DOI: 10.1016/S0920-4105(02)00167-5",
+url = "http://www.sciencedirect.com/science/article/B6VDW-45FYY7S-1/2/d436fc74747eb1dc6ab5fdf3dc9093d8",
+author = "Nestor V. Queipo and Javier V. Goicochea and Salvador Pintos",
+keywords = "Thermal oil recovery",
+keywords = "Steam oil recovery",
+keywords = "SAGD",
+keywords = "Surrogate modeling-based optimization",
+keywords = "SAGD optimization"
+}
+

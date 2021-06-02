@@ -1,0 +1,10 @@
+@inproceedings{Nava2008m,
+  author = "Efrain Nava and Salvador Pintos and Nestor V. Queipo",
+  title = "A Geostatistical perspective for the surrogate-based integration of variable fidelity models",
+  booktitle = "12th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference",
+  year = "2008",
+  organization = "AIAA",
+  address = "Victoria, British Columbia, Canada",
+  month = "September",
+  note = "Paper AIAA-2008-5893"
+}

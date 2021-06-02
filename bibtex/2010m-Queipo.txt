@@ -1,0 +1,10 @@
+@inproceedings{Queipo2010m,
+  author = "Nestor V. Queipo and Salvador Pintos and Efrain Nava and Alexander Verde",
+  title = "Setting Targets for Surrogate-Based Optimization",
+  booktitle = "51sh AIAA/ASME/ASCE/AHS/ASC Stuctures Structural Dynamics, and Materials Conference",
+  year = "2010",
+  organization = "AIAA",
+  address = "Orlando, FL, USA",
+  month = "Apr",
+  note = "Paper AIAA-2010-3087"
+}

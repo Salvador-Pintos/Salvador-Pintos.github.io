@@ -1,0 +1,17 @@
+@article{Queipo2009,
+title = "Assessing the value of another cycle in Gaussian process surrogate-based optimization",
+journal = "Structural and Multidisciplinary Optimization",
+volume = "39",
+number = "5",
+pages = "459 - 475",
+year = "2009",
+note = "",
+issn = "1615-147X",
+doi = "DOI: 10.1007/s00158-008-0346-0",
+url = "http://www.springerlink.com/content/TR5670H205230030",
+author = "Nestor V. Queipo and Alexander Verde and Salvador Pintos and Raphael T. Haftka",
+keywords = "surrogate-based optimization",
+keywords = "gaussian process",
+keywords = "short cycle optimization"
+}
+

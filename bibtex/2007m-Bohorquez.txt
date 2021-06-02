@@ -1,0 +1,10 @@
+@inproceedings{Bohorquez2007m,
+  author = "C. Bohórquez, N. Queipo, S. Pintos",
+  title = "Evaluación de métodos geostadísticos para la generación de campos de permeabilidad de 
+  yacimientos de petróleo",
+  year = "2007",
+  organization = "CICTILUZ",
+  address = "Maracaibo, Zulia, Venezuela",
+  month = "Noviembre",
+  note = Artículo 0203
+}

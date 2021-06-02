@@ -1,0 +1,15 @@
+@article{Queipo2012,
+title = "Setting targets for surrogate-based optimization",
+journal = "Journal of Global Optimization",
+year = "2012",
+note = "",
+issn = "",
+doi = "DOI:10.1007/s10898-011-9837-4",
+url = "http://www.springerlink.com/content/5641771735454671",
+author = "Nestor V. Queipo, Salvador Pintos and Efrain Nava and",
+keywords = "Minimum estimates from simple data", 
+keywords = "Extreme value theory",
+keywords = "Setting targets", 
+keywords = "Surrogate-based optimization",
+
+

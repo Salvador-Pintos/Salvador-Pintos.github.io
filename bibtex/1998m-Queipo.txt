@@ -1,0 +1,12 @@
+@inproceedings{Queipo1998m,
+  author = "Queipo, N., Arévalo, C., Pintos, S",
+  title = "The Integration of Design of Experiments, Surrogate Modeling and Optimization for 
+  Thermoscience Research",
+  booktitle = "ASME Heat Transfer Division",
+  volume = "5",
+  year = "1998",
+  organization = "ASME",
+  address = "Anaheim, California",
+  month = "November",
+  note = "HTD-VOL 361-5"
+}
